@@ -6,6 +6,7 @@ if str1 == str2:
 else:
     print("Not Equals")
 
+print("------------------------------")
 
 if str1.lower() == str2:
     print("Equals")
@@ -16,6 +17,8 @@ age1 = 18
 age2 = 14
 age3 = 22
 
+print("------------------------------")
+
 if (age1 >= 18) and (age2 >= 18):
     print("All Adult")
 else:
@@ -25,6 +28,8 @@ if (age1 >= 18) or (age3 >= 18):
     print("All Adult")
 else:
     print("Not all adult")
+
+print("------------------------------")
 
 names = ["Adam", "Jerry", "Tome"]
 name = "Tome"

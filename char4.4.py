@@ -8,6 +8,8 @@ print(numbers[4:7])
 print("The last three items in the list are;")
 print(numbers[-3:])  # 切片器的用途
 
+print("------------------------------")
+
 new_numbers = numbers[:]  # 创建新的列表并复制
 numbers.append("old")
 new_numbers.append("new")
