@@ -16,6 +16,7 @@ mcurie = {
     'city': 'paris'
     }
 
+
 names = [adam, aeinstein, mcurie]
 
 for name in names:
