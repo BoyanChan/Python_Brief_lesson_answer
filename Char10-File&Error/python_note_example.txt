@@ -1,0 +1,3 @@
+In Python you can easily create list.
+In Python you can write program positive.
+In Python you can use lots of tools.
